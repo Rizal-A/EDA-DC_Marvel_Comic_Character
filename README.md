@@ -1,1 +1,1 @@
-# EDA-DC_Marvel_Comic_Character
+# EDA-DC and Marvel Comic Character

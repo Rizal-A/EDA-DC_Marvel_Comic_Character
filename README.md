@@ -1,4 +1,7 @@
-# EDA-DC and Marvel Comic Character
+# Exploratory Data Analysis (EDA) DC and Marvel Comic Character
+
+![DC   Marvel](https://github.com/Rizal-A/EDA-DC_Marvel_Comic_Character/assets/117552819/a09b9bb6-0f6b-43e7-964d-43cf33b33281)
+
 This is a Exploratory Data Analysis of the DC - Marvel Comic Character dataset.
 
 This public dataset was obtained from Kaggle [Dataset DC-Marvel Comic Characters](https://www.kaggle.com/datasets/nikhil1e9/comic-characters)
